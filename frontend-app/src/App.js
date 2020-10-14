@@ -55,9 +55,6 @@ function App() {
                   <RoomForm />
                 </PrivateRoute>
               </UploadPhotoProvider>
-              <PrivateRoute exact path={ROOMFORM}>
-                <RoomForm />
-              </PrivateRoute>
               <PrivateRoute exact path={RESERVAS}>
                 <Reservas />
               </PrivateRoute>
