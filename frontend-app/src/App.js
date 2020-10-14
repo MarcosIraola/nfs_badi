@@ -25,7 +25,6 @@ import Politica from "./pages/politica/politica";
 import RoomDetail from "./pages/room_detail/roomDetail.view";
 import Reservas from "./pages/reservas/reservas.view";
 import PerfilUser from "./pages/perfilUser/perfilUser.view";
-import {UploadPhotoProvider} from "./contexts/uploadphoto_context";
 
 
 function App() {
